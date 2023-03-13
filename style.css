@@ -1,0 +1,65 @@
+body {
+  font-family: sans-serif;
+  border: 1px solid#5a6275;
+  border-radius: 5px;
+  margin: 60px 10px;
+}
+
+input {
+  width: 50%;
+  padding: 5px 15px;
+}
+
+input:hover {
+  border: 1px solid #016ec5;
+}
+
+#searching {
+  margin-left: 10px;
+  width: 100px;
+  background-color: #016ec5;
+  color: #fff;
+  border: 1px solid #016ec5;
+  border-radius: 3px;
+  padding: 5px;
+}
+#searching:hover {
+  background-color: #1567a5;
+  border: 2px solid #0b4e82;
+}
+
+#current {
+  margin-left: 10px;
+  width: 100px;
+  background-color: #28a744;
+  color: #fff;
+  border: 1px solid #28a744;
+  border-radius: 3px;
+  padding: 5px;
+}
+#current:hover {
+  background-color: #218838;
+  border: 2px solid #186629;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  color: #5a6275;
+}
+
+#temperature {
+  color: black;
+  font-size: 38px;
+}
+#celsium {
+  font-size: 20px;
+}
+
+li {
+  list-style: none;
+  color: #5a6275;
+}
