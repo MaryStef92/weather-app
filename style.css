@@ -1,8 +1,10 @@
 body {
   font-family: sans-serif;
+  max-width: 730px;
+  margin: 40px auto;
   border: 1px solid#5a6275;
   border-radius: 5px;
-  margin: 60px 10px;
+  
 }
 
 input {
